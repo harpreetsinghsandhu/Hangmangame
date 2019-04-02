@@ -1,5 +1,5 @@
 # Hangmangame
-android native
+android native code .
 steps to use this code
 1.make new android application (Hangmangame)
 2.package name(com.example.harpreet.hangmangame)
